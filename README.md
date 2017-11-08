@@ -5,3 +5,6 @@ Before appending the data, the D partition is checked if it exists. If the parti
 
 For a best use of this script I recommend to implement it with scheduler task.  
 
+run the script in powershell
+
+.\ServerStatus.ps1
